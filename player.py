@@ -19,7 +19,3 @@ class Player:
         # for a single card object
         else:
             self.cards.append(new_cards)
-
-# player_surya = Player('Surya') 
-# my_card = cards.Card('Spades','Ace')
-# player_surya.add_cards(my_card)
