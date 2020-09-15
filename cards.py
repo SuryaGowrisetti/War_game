@@ -12,7 +12,3 @@ class Card:
 
     def __str__(self):
         return self.rank + " of " + self.suit
-
-
-# for each in new_deck.cards:
-#     print(each.rank,each.suit,each.value)
